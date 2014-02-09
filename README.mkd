@@ -7,3 +7,15 @@ Dependencies
 * Pyglet
 * PIL
 * Numpy
+
+How to use
+----------
+```shell
+python play.py
+```
+
+Screenshots
+-----------
+<img src="screenshots/ready.png" />
+<img src="screenshots/entering.png" />
+<img src="screenshots/fail.png" />
