@@ -1,0 +1,9 @@
+A Flappy Bird clone, just for fun. The rendering part uses the quad drawing method in GLSL.
+
+Dependencies
+------------
+* Python 3
+* PyOpenGL
+* Pyglet
+* PIL
+* Numpy
